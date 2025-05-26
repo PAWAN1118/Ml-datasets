@@ -1,0 +1,22 @@
+logistic regression
+
+discrete either true or false only two outputs will be given
+values.reshape(-1,-1)
+1d-->2d
+
+support vector machine(svm)
+divides postive and negative hyperplane by a line(max margin)
+
+:a point  which is closer to hyperplane are the "support vectors" on both sides
+outlayers
+
+kernal is used to convert to higher dimension until it is "linearly separable"
+
+hyperplane equation:
+w.x+b=0
+w=classified vaectors (weight vector)
+x=input
+b-bias term
+
+max margin:
+margin=2/||w||
